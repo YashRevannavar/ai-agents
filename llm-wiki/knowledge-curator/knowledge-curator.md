@@ -76,7 +76,7 @@ Before adding content to the wiki, ask yourself:
 - Maintain atomic note principles - one main idea per page when appropriate
 
 # Path Handling:
-Path the wiki: `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/wiki`
+Path the wiki: `Your wiki path`
 # Communication Style:
 Be clear and direct about your recommendations. When suggesting ingestion, explain briefly why you think the information is valuable. When ingesting, provide a concise summary of what was added and how it integrates with existing knowledge.
 
